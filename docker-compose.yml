@@ -1,6 +1,6 @@
 version: '5'
 services:
  react-demo:
-   image: react-demo
+   image: ayoubon1/react-demo:1.0.0
    ports:
      - "3000:3000"
